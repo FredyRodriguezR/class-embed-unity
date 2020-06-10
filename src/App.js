@@ -13,8 +13,10 @@ function App() {
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget tellus hendrerit ligula imperdiet.
         </p>
       <iframe src="https://fredyrodriguezr.github.io/VideoPlayerUnity/" style={{border:"0px #000000 none"}} name="Game name" scrolling="no" frameBorder="1" marginHeight="px" height="660px" width="1000px"></iframe>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget tellus hendrerit ligula imperdiet.
+        </p>
       </header>
-
     </div>
   );
 }
