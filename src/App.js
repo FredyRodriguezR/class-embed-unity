@@ -6,19 +6,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Clase
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget tellus hendrerit ligula imperdiet.
+        </p>
+      <iframe src="https://fredyrodriguezr.github.io/VideoPlayerUnity/" style={{border:"0px #000000 none"}} name="Game name" scrolling="no" frameBorder="1" marginHeight="px" height="660px" width="1000px"></iframe>
       </header>
+
     </div>
   );
 }
